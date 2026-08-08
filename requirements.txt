@@ -1,0 +1,12 @@
+neo4j
+gqlalchemy
+pymgclient
+falkordb
+python-arango
+pandas
+numpy
+matplotlib
+seaborn
+psutil
+tqdm
+python-dotenv
